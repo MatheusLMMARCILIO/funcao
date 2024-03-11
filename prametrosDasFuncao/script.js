@@ -1,5 +1,5 @@
-function funcao() {
-    console.log('oi')
+function i() {
+    console.log(arguments)
 }
 
-funcao()
+i('valor')
