@@ -3,3 +3,15 @@ function i() {
 }
 
 i('valor')
+
+
+
+
+
+
+
+
+
+
+// o *arguments* mostra o conteudo, nomeFunction('Tudo que está aqui')
+

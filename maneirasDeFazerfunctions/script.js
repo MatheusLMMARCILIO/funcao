@@ -15,3 +15,4 @@ const objFunction = {
 const arrowFunction = () => {
     console.log('conteúdo')
 }
+
